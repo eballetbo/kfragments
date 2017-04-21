@@ -31,3 +31,10 @@ In this example:
 -n  =  use allnoconfig instead of alldefconfig
 -r  =  list redundant entries when merging fragments
 -O  =  dir to put generated output files
+
+## Configuration files
+
+Below is a list of configuration files that contain the configuration
+flags that are not currently set in the specific defconfig.
+
+  multi-v7 - Fragments to apply to multi_v7_defconfig 
